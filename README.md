@@ -37,7 +37,7 @@ Information about Getting Started
 ## License
 <!--- Make sure you have a License.txt within your Repo --->
 
-The license is available in the `License.txt` file in this GitHub repository.
+The license is available in the `license.txt` file in this GitHub repository.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
